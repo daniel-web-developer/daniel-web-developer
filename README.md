@@ -1,5 +1,21 @@
-### Hi there 👋
+**README UNDER DEVELOPMENT**
+# Hi there 👋
 
+### I'm Daniel, and this is my GitHub profile.
+
+## My projects
+
+I'm constantly working in multiple projects, but here are some that deserve to be highlighted:
+
+- [Web development](#web-development)
+  - [Frontend](#frontend)
+  - [Fullstack](#fullstack)
+- [Game development](#game-development)
+
+## Web development
+### Frontend
+### Fullstack
+## Game development
 <!--
 **daniel-web-developer/daniel-web-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
