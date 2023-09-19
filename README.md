@@ -10,12 +10,10 @@ I'm constantly working in multiple projects, but here are some that deserve to b
 - [Web development](#web-development)
   - [Frontend](#frontend)
   - [Fullstack](#fullstack)
-- [Game development](#game-development)
 
 ## Web development
 ### Frontend
 ### Fullstack
-## Game development
 <!--
 **daniel-web-developer/daniel-web-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
