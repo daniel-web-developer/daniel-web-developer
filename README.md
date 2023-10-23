@@ -16,6 +16,7 @@ I'm constantly working in multiple projects, but here are some that deserve to b
 - [Web development](#web-development)
   - [Fullstack](#fullstack)
   - [Frontend](#frontend)
+  - [Add-ons](#add-ons)
 
 ## Web development
 ### Fullstack
@@ -27,6 +28,9 @@ I'm constantly working in multiple projects, but here are some that deserve to b
 - Where in the world? [Live website](https://countries-api-daniel-web-developer.vercel.app/) | [Source code](https://github.com/daniel-web-developer/flags-api/)
 - Space tourism [Live website](https://nextjs-space-turism.vercel.app/destination) | [Source code](https://github.com/daniel-web-developer/nextjs-space-turism/)
 - Calculator [Live website](https://nextjs-calculator-danielwebdeveloper.vercel.app/) | [Source code](https://github.com/daniel-web-developer/nextjs-calculator/)
+
+### Add-ons
+- Keybindings for Linux users [Source code](https://github.com/daniel-web-developer/keybindings-addon)
 
 
 <!--
