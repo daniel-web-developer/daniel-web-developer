@@ -17,6 +17,7 @@ I'm constantly working in multiple projects, but here are some that deserve to b
   - [Fullstack](#fullstack)
   - [Frontend](#frontend)
   - [Add-ons](#add-ons)
+- [Game development](#game-development)
 
 ## Web development
 ### Fullstack
@@ -31,6 +32,9 @@ I'm constantly working in multiple projects, but here are some that deserve to b
 
 ### Add-ons
 - Keybindings for Linux users [Source code](https://github.com/daniel-web-developer/keybindings-addon)
+
+## Game development
+- Hangman (in C) [Source code](https://github.com/daniel-web-developer/hangman-c/)
 
 
 <!--
